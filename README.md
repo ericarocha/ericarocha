@@ -1,7 +1,7 @@
 ## Olá, tudo bem? 👋 
 Eu sou a Érica Rocha 😉
  <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/ericarocha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericarocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericarocha&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
